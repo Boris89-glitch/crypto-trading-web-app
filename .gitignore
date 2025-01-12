@@ -1,0 +1,10 @@
+# Ignore  files
+*.csv
+*.json
+*.tmp
+*.env
+__pycache__/
+*.pyc
+*.git
+*.log
+*.jar
